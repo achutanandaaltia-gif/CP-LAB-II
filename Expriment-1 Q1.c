@@ -4,12 +4,8 @@
 int main()
 {
 	char name [25];
-	
 	printf("input a string ");
 	gets(name);
-	
-
 printf("output = %s",name);
-
-
 }
+
