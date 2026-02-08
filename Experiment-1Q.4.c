@@ -1,3 +1,4 @@
+/*How can you implement a program to count the number of vowels in a string?*/
 #include<stdio.h>
 #include<string.h>
 int main()
@@ -15,6 +16,7 @@ int main()
     }
 
     {
-        printf("the volume number is %d\n",count);
+        printf("the vowels  number is %d\n",count);
     }
+
 }
